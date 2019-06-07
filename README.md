@@ -1,7 +1,7 @@
 # Skivvy 
 An app to search for Urban Help or maid Services.
 
-** Features
+## Features
 1. SignIn / SignUp for the end user.
 2. Searching the available maids according to the current location of the user.
 3. View the maid profile snapshot.
